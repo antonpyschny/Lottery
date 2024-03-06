@@ -1,1 +1,1 @@
-Lottery Gevin is an advanced version of Lottery that shows how much time it will take you to win in a lottery.
+Lottogewinn is an expanded version of Lottery that counts how many times you need to win a lottery.
